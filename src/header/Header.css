@@ -1,0 +1,27 @@
+.Header{
+    max-width: 100vh;
+    height: 10vh;
+    display: inline;
+}
+.Top-title {
+    float: left;
+    color: whitesmoke;
+    margin-top: 0px;
+}
+.Top-sign-in{
+    float: right;
+    display: block;
+    color: whitesmoke;
+}
+.Cart-view{
+    display: inline-flex;
+    float: right
+}
+.Cart-button{
+    background: none;
+    border: none;
+}
+.User-name{
+    color: whitesmoke;
+    padding: 1vmax
+}
