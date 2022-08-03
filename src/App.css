@@ -3,6 +3,11 @@
   background-color: #000000;
 }
 
+.Header{
+  min-width: 100vh;
+  height: 10vh;
+  display: inline;
+}
 /* .App-logo {
   height: 40vmin;
   pointer-events: none;

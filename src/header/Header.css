@@ -1,5 +1,5 @@
 .Header{
-    max-width: 100vh;
+    width: 100vh;
     height: 10vh;
     display: inline;
 }
@@ -15,11 +15,14 @@
 }
 .Cart-view{
     display: inline-flex;
-    float: right
+    float: right;
+    height: 9vh
 }
 .Cart-button{
     background: none;
     border: none;
+    padding-bottom: 0;
+    padding-right: 2vmax;
 }
 .User-name{
     color: whitesmoke;
