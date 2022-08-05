@@ -2,12 +2,11 @@
   /* text-align: center; */
   background-color: #000000;
 }
-
-.Header{
-  min-width: 100vh;
-  height: 10vh;
-  display: inline;
+.Spacer{
+  width: 100vh;
+  height: 3vmax;
 }
+
 /* .App-logo {
   height: 40vmin;
   pointer-events: none;

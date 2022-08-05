@@ -11,6 +11,7 @@ function App() {
       <div className= "Header">
         <Header />
       </div>
+      <div className='Spacer'></div>
       <br/>
       <NavBar />
       <br/>
